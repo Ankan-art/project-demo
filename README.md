@@ -1,4 +1,4 @@
 # project-demo
 This is my first Git Repository.
 <br>
-Author - Ankan Das
+Author - Ankan D
